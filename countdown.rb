@@ -5,14 +5,14 @@ def countdown(num)
 
   while num > 0
 
-    if num == 2
-      greet=   "HAPPY NEW YEAR!"
-    end
+    #if num == 2
+    #  greet=   "HAPPY NEW YEAR!"
+    #end
    puts  " #{num} SECOND(S)!"
    num -= 1
 
   end
-  return greet
+  puts "HAPPY NEW YEAR!"
 
 
 end
