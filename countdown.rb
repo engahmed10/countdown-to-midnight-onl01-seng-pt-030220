@@ -9,7 +9,9 @@ def countdown(num)
     if num == 2
       greet=   "HAPPY NEW YEAR!"
     end
+
   end
+  return
 
 
 end
