@@ -11,7 +11,7 @@ def countdown(num)
     end
 
   end
-  return
+  return greet
 
 
 end
